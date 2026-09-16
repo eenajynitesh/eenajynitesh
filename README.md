@@ -1,5 +1,5 @@
 # 💫 About Me:
-Senior Full Stack Engineer with 6+ years delivering enterprise features on multi-tenant SaaS platforms using .NET Core, .NET Framework, C#, Vue.js 3, and SQL Server. Led a Vue 2 to Vue 3 migration across 24 components, shipped two greenfield modules end-to-end into production. Built internal AI dev tooling playbooks (Claude, Devin) adopted across the engineering team, cutting scaffolding overhead by 35% ; mentored junior engineers, reducing review cycle time by 40%
+Senior Full Stack Engineer with 7+ years delivering enterprise features on multi-tenant SaaS platforms using .NET Core, .NET Framework, C#, Vue.js 3, and SQL Server. Led a Vue 2 to Vue 3 migration across 24 components, shipped two greenfield modules end-to-end into production. Built internal AI dev tooling playbooks (Claude, Devin) adopted across the engineering team, cutting scaffolding overhead by 35% ; mentored junior engineers, reducing review cycle time by 40%
 
 
 ## 🌐 Socials:
